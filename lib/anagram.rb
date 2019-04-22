@@ -14,7 +14,7 @@ class Anagram
       else
         new_array
       end
-    end
-    
-  
+    end 
+  new_array
+end
 end 
